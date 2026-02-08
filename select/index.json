@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "ダイヤモンド",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-02-08T18:46:46.093709Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ダイヤモンド",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_ダイヤモンド_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Diamond [ダイヤモンド]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_Diamond_[ダイヤモンド]_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ダイヤモンド",
+      "artist": "Kobukuro",
+      "has_synced": true,
+      "path": "select/03_ダイヤモンド_Kobukuro.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ダイヤモンド",
+      "artist": "コブクロ",
+      "has_synced": true,
+      "path": "select/04_ダイヤモンド_コブクロ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "上野☆ダイヤモンド",
+      "artist": "カラーズ☆スラッシュ【結衣(CV.高田憂希)、さっちゃん(CV.高野麻里佳)、琴葉(CV.日岡なつみ)】",
+      "has_synced": true,
+      "path": "select/05_上野☆ダイヤモンド_カラーズ☆スラッシュ【結衣(CV.高田憂希)、さっちゃん(CV.高野麻里佳)、琴葉(CV.日岡なつみ)】.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "上野☆ダイヤモンド",
+      "artist": "カラーズ☆スラッシュ[結衣(CV.高田優希)、さっちゃん(CV.高野麻里佳)、琴葉(CV.日岡なつみ)]",
+      "has_synced": true,
+      "path": "select/06_上野☆ダイヤモンド_カラーズ☆スラッシュ[結衣(CV.高田優希)、さっちゃん(CV.高野麻里佳)、琴葉(CV.日岡なつみ)].lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ダイヤモンド",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/07_ダイヤモンド_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ダイヤモンド",
+      "artist": "押水菜子(CV.豊崎愛生)",
+      "has_synced": true,
+      "path": "select/08_ダイヤモンド_押水菜子(CV.豊崎愛生).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ダイヤモンド",
+      "artist": "押水菜子 (豊崎愛生)",
+      "has_synced": true,
+      "path": "select/09_ダイヤモンド_押水菜子_(豊崎愛生).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ダイヤモンド・ダスト",
+      "artist": "Kyosuke Himuro",
+      "has_synced": false,
+      "path": "select/10_ダイヤモンド・ダスト_Kyosuke_Himuro.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ダイヤモンド・シンドローム",
+      "artist": "TOM★CAT",
+      "has_synced": false,
+      "path": "select/11_ダイヤモンド・シンドローム_TOM★CAT.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ダイヤモンド・ダスト",
+      "artist": "氷室京介",
+      "has_synced": true,
+      "path": "select/12_ダイヤモンド・ダスト_氷室京介.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ダイヤモンド",
+      "artist": "Little Glee Monster",
+      "has_synced": false,
+      "path": "select/13_ダイヤモンド_Little_Glee_Monster.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ダイヤモンド",
+      "artist": "コブクロ",
+      "has_synced": true,
+      "path": "select/14_ダイヤモンド_コブクロ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ダイヤモンド☆ブルー",
+      "artist": "酒井法子",
+      "has_synced": false,
+      "path": "select/15_ダイヤモンド☆ブルー_酒井法子.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "上野☆ダイヤモンド",
+      "artist": "カラーズ☆スラッシュ",
+      "has_synced": true,
+      "path": "select/16_上野☆ダイヤモンド_カラーズ☆スラッシュ.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ダイヤモンド",
+      "artist": "豊崎愛生",
+      "has_synced": true,
+      "path": "select/17_ダイヤモンド_豊崎愛生.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ダイヤモンド (Off Vocal)",
+      "artist": "豊崎愛生",
+      "has_synced": true,
+      "path": "select/18_ダイヤモンド_(Off_Vocal)_豊崎愛生.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ダイヤモンド",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_ダイヤモンド_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
